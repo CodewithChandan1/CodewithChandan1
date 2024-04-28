@@ -28,12 +28,12 @@ const s_CodewithChandan1 = {
   <tr>
     <td align="center">
       <a href="https://github.com/CodewithChandan1/flip-coin-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=FLIP COIN GAME" alt="FLIP COIN GAME" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=flip-coin-gameE" alt="FLIP COIN GAME" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/CodewithChandan1/dev_chandan_dev">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=Portfolio" alt=" Portfolio " />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=dev_chandan_dev" alt=" Portfolio " />
       </a>
     </td>
   </tr>
