@@ -1,20 +1,4 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-<h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-
-```javascript
-const CodewithChandan1 = {
-    bio: "Hey there! Chandan here 👩🏻‍💻, a self-taught front-end developer passionate about UI/UX.",
-    techStack: {
-        languages: ["JavaScript", ],
-        libraries: ["React", "Vue"],
-        frameworks: ["Next.js", "Vite", "Bootstrap"],
-        cssTools: ["Css", "TailwindCSS", ],
-        deployment: ["Github Pages", "Firebase", "Vercel", "Netlify"],
-    },
-    designTools: ["Figma", "InVision", "Adobe XD", "Framer"],
-    motto: "Keep it simple and stupid ✨",
-};
-```
 
 ###
 
