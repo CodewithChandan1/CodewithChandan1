@@ -1,3 +1,21 @@
+<h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+
+```javascript
+const codewithchandan1 = {
+    bio: "Hey there! Chandan here 👩🏻‍💻, a self-taught front-end developer passionate about UI/UX.",
+    techStack: {
+        languages: ["JavaScript"],
+        libraries: ["React",],
+        frameworks: ["Next.js", "Angular", "Bootstrap"],
+        cssTools: ["Css", "TailwindCSS", ],
+        deployment: ["Github Pages", "Firebase", "Vercel", "Netlify"],
+    },
+    designTools: ["Figma", "InVision", "Adobe XD", "Framer"],
+    motto: "Keep it simple and stupid ✨",
+};
+```
+
+
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
