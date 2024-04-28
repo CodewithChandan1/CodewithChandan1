@@ -1,7 +1,8 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 <h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
 ```javascript
-const s_CodewithChandan1 = {
+const CodewithChandan1 = {
     bio: "Hey there! Chandan here 👩🏻‍💻, a self-taught front-end developer passionate about UI/UX.",
     techStack: {
         languages: ["JavaScript", ],
@@ -15,63 +16,47 @@ const s_CodewithChandan1 = {
 };
 ```
 
-<div align="center">
+###
 
-  ![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithChandan1&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-## Featured Projects
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/CodewithChandan1/flip-coin-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=flip-coin-gameE" alt="FLIP COIN GAME" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CodewithChandan1/dev_chandan_dev">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=dev_chandan_dev" alt=" Portfolio " />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/CodewithChandan1/vtech-landing-page-html-css-js">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=vtech-landing-page-html-css-js" alt="vtech-landing-page-html-css-js" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CodewithChandan1/MovieZilla">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=MovieZilla" alt="MovieZilla" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/CodewithChandan1/Movie-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=Movie-app" alt="Movie-app" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CodewithChandan1/git-profile-search">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithChandan1&theme=dracula&hide_border=true&show_icons=true&repo=git-profile-search" alt="git-profile-search" />
-      </a>
-    </td>
-  </tr>
-</table>
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+###
+
 <div align="center">
-
-  ![Snake animation](https://github.com/CodewithChandan1/CodewithChandan1/blob/output/github-contribution-grid-snake-dark.svg)
-
-  ---
-  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about and geeking out on all things tech!</b>💻<3</em>
-
-  ![](https://komarev.com/ghpvc/?username=CodewithChandan1&color=blueviolet)
-
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
+
+###
