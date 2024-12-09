@@ -31,13 +31,13 @@ const codewithchandan1 = {
 
 - 🤝 I’m always available to guide and support you in **Tech**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/dev-chandan/overview](https://app.netlify.com/sites/dev-chandan/overview)
+- 👨‍💻 All of my projects are available at [https://dev-chandan.netlify.app/](https://dev-chandan.netlify.app/)
 
 - 💬 Ask me about **Mern**
 
 - 📫 How to reach me **ck425789@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/HP/Downloads/Chandan_full_stack_developer.pdf](file:///C:/Users/HP/Downloads/Chandan_full_stack_developer.pdf)
+- 📄 Know about my experiences [https://dev-chandan.netlify.app/](https://dev-chandan.netlify.app/)
 
 - ⚡ Fun fact **I Think I'm Funny**
 
@@ -57,7 +57,7 @@ const codewithchandan1 = {
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codewithchandan1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codewithchandan1" /></a><a href="https://ko-fi.com/codewithchandan1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codewithchandan1" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithchandan1&show_icons=true&locale=en&layout=compact" alt="codewithchandan1" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithchandan1&show_icons=true&locale=en&layout=compact" alt="codewithchandan1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithchandan1&show_icons=true&locale=en" alt="codewithchandan1" /></p>
 
